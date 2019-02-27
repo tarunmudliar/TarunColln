@@ -16,7 +16,7 @@ public class ArrayListExample {
 	static List<String> ale = new ArrayList<String>();
 	// ArrayList<linkedListExample> ALE = new ArrayList<linkedListExample>();
 	ArrayList<Integer> ned = new ArrayList<Integer>();
-
+	//yo
 	public static void addElements() {
 		// add, set, remove, get , listiterator, size
 		ale.add("Tarun");
